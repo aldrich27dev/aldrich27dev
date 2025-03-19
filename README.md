@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+
 
 # Hello World!, I'm Aldrich, a Student 👋🏼:
 <p>A passionate frontend developer from Manila, Philippines </p>
