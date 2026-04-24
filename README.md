@@ -2,7 +2,7 @@
 
 # Hello World!, I'm Aldrich, a Student 👋🏼:
 <p>A passionate frontend developer from Manila, Philippines </p>
-🛜 currently working on my own [webpage](https://aldrich27dev.github.io/aldrich_newportfolio)<br>👨🏼‍🎓 studying Information Technology in Global Reciprocal Colleges<br>👨🏼‍💻 since 2024 <br>
+🛜 currently working on my own [webpage](https://aldrich-newportfolio.vercel.app/)<br>👨🏼‍🎓 studying Information Technology in Global Reciprocal Colleges<br>👨🏼‍💻 since 2024 <br>
 
 # 💻 Tech Stack:
 
